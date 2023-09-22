@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LJ-Solana
+- 👋 Hi, I’m LJ
 - Working as a core contributor to Synx, decentralised storage mobile application.
 
 <!---
