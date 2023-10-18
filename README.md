@@ -1,5 +1,5 @@
 - 👋 Hi, I’m LJ
-- Working as a core contributor to decentralised storage mobile application & running a top 50 performing Solana validator.
+- Working as a core contributor to dStorage mobile application & running a top 50 performing Solana validator.
 - Download: https://linktr.ee/synxstorage
 - Top Solana Validator: https://www.stakecity.xyz/
 <!---
