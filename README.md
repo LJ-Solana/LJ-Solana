@@ -1,5 +1,9 @@
 - 👋 Hi, I’m LJ
+
+- Day job working in growth @ RippleX 
+
 - Working as a core contributor to dStorage mobile application & running a top 50 performing Solana validator.
+
 - Download: https://linktr.ee/synxstorage
 - Top Solana Validator: https://www.stakecity.xyz/
 <!---
